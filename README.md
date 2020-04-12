@@ -5,10 +5,10 @@ Click [here](https://www.coursera.org/learn/data-structures-optimizing-performan
 The starter code, including GUI code, is provided by the instructors.
 Implementations of the required data structures (e.g. Tries) and algorithms were completed under 
 directions of the instructors via TODOs.
-Please refer to [ORIGINAL-README.md](UCSD-TextEditor/ORIGINAL-README) for more information about the setup and acknowledgements.
+Please refer to [ORIGINAL-README.md](/ORIGINAL-README) for more information about the setup and acknowledgements.
 
 ## Overview
-The text editor features spelling checking and suggesting, auto-completion, Flesch Index calculation, etc.
+The text editor features spell check, auto-completion, Flesch Index calculation, etc.
 
 ## Get Started
 To start the editor, run MainApp.java file under 'application' package.
